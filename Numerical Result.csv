@@ -1,0 +1,13 @@
+Network,Architecture,N_Max (Services),Carried Traffic (Tb/s),Gain vs Uplink,Blocking Rate
+NSFNET,"Uplink, No Grooming",35,1.5,Base,0.00%
+NSFNET,"Uplink, Grooming (Heuristic)",185,9.4,Base,0.00%
+NSFNET,"Uplink, Grooming (ILP)",230,12.2,Base,0.43%
+NSFNET,"Xponder, No Grooming",170,8.5,380%,0.59%
+NSFNET,"Xponder, Grooming (Heuristic)",280,15.1,51.40%,0.71%
+NSFNET,"Xponder, Grooming (ILP)",360,18.8,94.60%,0.56%
+Italian,"Uplink, No Grooming",20,1.1,Base,0.00%
+Italian,"Uplink, Grooming(Heuristic)",170,9.6,Base,0.59%
+Italian,"Uplink, Grooming (ILP)",105,6.1,Base,0.95%
+Italian,"Xponder, No Grooming",110,6.5,450%,0.00%
+Italian,"Xponder, Grooming(Heuristic)",180,10.3,5.90%,0.00%
+Italian,"Xponder, Grooming (ILP)",185,10.5,8.80%,0.54%
