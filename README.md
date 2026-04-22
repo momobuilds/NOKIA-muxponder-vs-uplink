@@ -1,6 +1,6 @@
 # Muxponder vs Uplink
 
-Small course project for **Communication and Network Design** comparing two multilayer transport architectures: **Uplink** vs **Muxponder/Xponder**.
+Course project for **Communication and Network Design** and **Nokia Italy** comparing two multilayer transport architectures: **Uplink** vs **Muxponder/Xponder**.
 
 The notebook simulates traffic on two network topologies and checks how much traffic the network can carry before the blocking rate reaches **1%**.
 
